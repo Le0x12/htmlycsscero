@@ -1,0 +1,11 @@
+li{
+    color: black;
+}
+
+.faltante{
+    color: rgb(7, 204, 161);
+}
+
+#ingrediente-secreto{
+    color: red;
+}
